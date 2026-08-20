@@ -46,9 +46,9 @@ SVA is focused on continuous experimentation, prototyping, and development acros
 
 ## Organization
 
-**GitHub:** [SVA](https://github.com/SYSTEMS-VISUALLY-AUGUMENTEDD)
+**Founder Linkedin:** [Yatharth Kelkar]
 
-**Founder:** [Yatharth Kelkar](https://www.linkedin.com/in/yatharthkelkar/)
+**Founder Linkedin:** [Yatharth Kelkar](https://www.linkedin.com/in/yatharthkelkar/)
 
 **Founder GitHub:** [Yatharth Kelkar](https://github.com/Yathartsalill)
 
