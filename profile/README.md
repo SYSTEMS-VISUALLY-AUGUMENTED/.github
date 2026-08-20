@@ -1,110 +1,57 @@
-# SVA
+#                                                         SVA
 
-### AI-powered programming error solver for developers.
+### Defense Technology | Robotics | Software Development
 
-SVA helps developers understand and fix programming errors using AI.
-Simply provide the **programming language**, **error/problem**, and optionally your **code** — SVA analyzes it and provides an explanation and solution.
+SVA is a technology startup focused on developing innovative solutions across **defense technology, robotics, software development, and artificial intelligence**.
 
----
+We combine engineering, software, and emerging technologies to develop practical prototypes and explore solutions to complex real-world problems.
 
-## 🚀 Features
+## Areas of Development
 
-* 🐛 **Error Analysis** — Understand what caused the error.
-* 🔧 **Code Fixes** — Get corrected code and practical solutions.
-* 🧠 **AI Explanations** — Learn *why* the error occurred.
-* 💻 **Multi-Language Support** — Built to support popular programming languages.
-* ⚡ **Fast & Simple** — No complicated debugging workflow.
-* 📧 **Simple Onboarding** — Email-based welcome experience.
-* 🔌 **API-Ready** — Designed to integrate with other applications.
+### Defense Technology
 
----
+Researching and developing technology concepts applicable to defense, autonomous systems, and advanced engineering.
 
-## 💡 How It Works
+### Robotics & Autonomous Systems
 
-```text
-Programming Language
-        +
-Error / Problem
-        +
-Optional Code
-        ↓
-       SVA
-        ↓
-AI Analysis
-        ↓
-Explanation + Solution + Fixed Code
-```
+Designing and prototyping robotic systems with an emphasis on practical applications, experimentation, and autonomous technologies.
 
----
+Our projects include:
 
-## 🛠️ Tech Stack
+* Miniature drone prototypes
+* Agricultural technology systems
+* A sample-collecting rover prototype inspired by planetary exploration
 
-| Layer      | Technology         |
-| ---------- | ------------------ |
-| Frontend   | React / TypeScript |
-| Backend    | Python / FastAPI   |
-| AI         | LLM API            |
-| Database   | SQL                |
-| Deployment | Docker             |
+### Software & Artificial Intelligence
 
----
+Developing software systems and AI-powered solutions that complement our robotics and engineering initiatives.
 
-## 📸 Product
+## Achievements
 
-> Screenshots and product demonstrations will be added as the platform develops.
+SVA has achieved **three major competition victories** through its projects and technical work.
 
----
+Further details regarding our projects and achievements will be documented as the organization continues to grow.
 
-## 🗺️ Roadmap
+## Team
 
-* [x] Core product concept
-* [ ] MVP web application
-* [ ] AI error solving
-* [ ] Multi-language support
-* [ ] User accounts
-* [ ] Debugging history
-* [ ] Public API
-* [ ] IDE integration
-* [ ] Advanced code analysis
+SVA was founded by **Yatharth Kelkar**, a student founder, with support and co-funding from **Salil Kelkar**.
+
+The organization brings together interests in engineering, software development, robotics, artificial intelligence, and innovation.
+
+## Vision
+
+> **To develop practical technologies that transform ambitious ideas into functional systems.**
+
+SVA is focused on continuous experimentation, prototyping, and development across multiple technology disciplines, with the long-term objective of creating solutions with meaningful real-world applications.
+
+## Organization
+
+**GitHub:** [SVA](https://github.com/SYSTEMS-VISUALLY-AUGUMENTEDD)
+
+**Founder:** [Yatharth Kelkar](https://www.linkedin.com/in/yatharthkelkar/)
+
+**Founder GitHub:** [Yatharth Kelkar](https://github.com/Yathartsalill)
 
 ---
 
-## 🔐 Security
-
-SVA is designed with security and privacy in mind.
-
-* API keys stored through environment variables
-* Input validation
-* Rate limiting
-* Secure authentication
-* HTTPS in production
-* No secrets committed to the repository
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and ideas are welcome.
-
-```bash
-git clone <repository-url>
-cd sva
-```
-
-Create a feature branch, make your changes, test them, and open a pull request.
-
----
-
-## 📄 License
-
-License information will be added before the public release.
-
----
-
-<div align="center">
-
-### SVA
-
-**Build more. Debug less.**
-
-</div>
+**SVA — Engineering the Future.**
