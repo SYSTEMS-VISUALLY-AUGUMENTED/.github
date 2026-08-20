@@ -1,4 +1,4 @@
- #   #             SVA
+# <div align="center">SVA</div>
 
 ### Defense Technology | Robotics | Software Development
 
