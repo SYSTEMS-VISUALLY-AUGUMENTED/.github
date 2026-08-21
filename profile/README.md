@@ -48,13 +48,11 @@ SVA is focused on continuous experimentation, prototyping, and development acros
 
 **Founder Name:** Yatharth Kelkar
 
-**Contact Founder :** 
+**Contact Founder:**
 
-  **Linkedin:** [Yatharth Kelkar](https://www.linkedin.com/in/yatharthkelkar/)
-  
-  **GitHub :** [Yatharth Kelkar](https://github.com/Yathartsalill)
-  
-  **Website :** [Yatharth Kelkar](https://github.com/Yathartsalill)
+- **LinkedIn:** [Yatharth Kelkar](https://www.linkedin.com/in/yatharthkelkar/)
+- **GitHub:** [Yatharth Kelkar](https://github.com/Yathartsalill)
+- **Website:** [Yatharth Kelkar](https://github.com/Yathartsalill)
 
 ---
 
