@@ -11,6 +11,8 @@ We combine engineering, software, and emerging technologies to develop practical
 ### Defense Technology
 
 Researching and developing technology concepts applicable to defense, autonomous systems, and advanced engineering.
+Our projects include:
+* Miniature drone prototypes
 
 ### Robotics & Autonomous Systems
 
@@ -18,7 +20,6 @@ Designing and prototyping robotic systems with an emphasis on practical applicat
 
 Our projects include:
 
-* Miniature drone prototypes
 * Agricultural technology systems
 * A sample-collecting rover prototype inspired by planetary exploration
 
