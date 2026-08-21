@@ -52,7 +52,7 @@ SVA is focused on continuous experimentation, prototyping, and development acros
 
 - **LinkedIn:** [Yatharth Kelkar](https://www.linkedin.com/in/yatharthkelkar/)
 - **GitHub:** [Yatharth Kelkar](https://github.com/Yathartsalill)
-- **Website:** [Yatharth Kelkar](https://github.com/Yathartsalill)
+- **Website:** [Yatharth Kelkar](https://yatharthkelkar.infinityfree.io/)
 
 ---
 
